@@ -1,3 +1,4 @@
+#python3
 DEBUG=0
 
 
